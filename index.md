@@ -5,8 +5,6 @@ layout: default
 # アプリが要求する権限について
 ### 写真の撮影と動画の記録
 本アプリでは、テキスト認識のためにカメラを使用します。
-### 機器上の写真、メディア、ファイルへのアクセス
-本アプリでは、assetsフォルダ上の辞書データをロードするためにストレージへのアクセス権を使用します。
 # 外部サービスについて
 ### Google Analytics for Firebase
 本アプリは、利用状況解析のためにGoogle Ink.（以下、Google）が提供するGoogle Analytics for Firebaseを使用しています。
